@@ -48,6 +48,7 @@
 			<version>10.9.1.0</version>
 		</dependency>
 	</dependencies>
+	
 	<properties>
 		<org.hibernate.version>3.6.0.Final</org.hibernate.version>
 		<tomcat.jdbc.pool.version>1.0.9.3</tomcat.jdbc.pool.version>
